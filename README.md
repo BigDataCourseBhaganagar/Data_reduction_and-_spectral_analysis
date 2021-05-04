@@ -1,4 +1,4 @@
-# data-reduction-and-spectral-analysis-of-turbulent-fields
+# Data reduction and spectral analysis of turbulent field images
 Final Project for Big Data Class - 
 This code uses large jet image data set and reduces the information using a spectral filter for analysis.
 
